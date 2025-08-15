@@ -21,7 +21,7 @@ I'm a passionate **DevOps & Site Reliability Engineer (SRE)** with over **8+ yea
 
 ### 🧰 Tech Stack
 
-- **Cloud**: AWS, Azure, GAIA Cloud  
+- **Cloud**: AWS  
 - **CI/CD**: Azure DevOps, GitHub Actions, Jenkins, Jules  
 - **SCM**: GitHub, Bitbucket  
 - **IaC**: Terraform  
@@ -118,5 +118,31 @@ If you're looking to connect, discuss DevOps/SRE, get guidance, or collaborate:
 </a>
 </p>
 
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lingaiahthammisetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=lingaiahthammisetti&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lingaiahthammisetti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=lingaiahthammisetti&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
+\## 🐍 GitHub Contribution Snake
+
+
+<div align="center">
+
+&nbsp; <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+</div>
+
+
+---
 
 Thanks for visiting!
