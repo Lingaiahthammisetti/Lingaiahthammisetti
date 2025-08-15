@@ -11,7 +11,7 @@
 [![Topmate](https://img.shields.io/badge/Topmate-Book%20a%201:1-green?logo=meetup&style=flat)](https://topmate.io/lingaiah_thammisetti/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/lingaiah-thammisetti/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@lingaya.tmst5525)
-[![Gmail](https://img.shields.io/badge/Email-harikpalepu@gmail.com-red?logo=gmail&style=flat)](mailto:lingaya.tmst5525@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-lingaya.tmst5525@gmail.com-red?logo=gmail&style=flat)](mailto:lingaya.tmst5525@gmail.com)
 
 ---
 
